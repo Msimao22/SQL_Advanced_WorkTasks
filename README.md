@@ -1,4 +1,4 @@
-# PROVA-SQL-MANAGAMENT-STUDIO
+#SQL-MANAGAMENT-STUDIO
 
 
 1. **Criação da Tabela Funcionario222:**
