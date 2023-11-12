@@ -1,6 +1,5 @@
 # PROVA-SQL-MANAGAMENT-STUDIO
 
-**Descrição para o GitHub:**
 
 1. **Criação da Tabela Funcionario222:**
    - **SQL Query:** `Select * into Funcionario222 From dbo.DimEmployee`
